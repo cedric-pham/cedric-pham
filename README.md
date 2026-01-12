@@ -7,13 +7,19 @@ I'm **Cuong Pham**, a developer from Vietnam 🇻🇳
 ---
 
 ### 🔭 Currently Working On
-- AI-powered trading systems and arbitrage bots
-- Open-source streaming applications
+- **Media Portal**: Obsidian plugin for unified media search across multiple APIs
+- AI-powered development tools and automation scripts
+- Fullstack web applications with modern technologies
+
+### 🚀 Featured Projects
+- [**media-portal**](https://github.com/nyrosveil/media-portal) - Obsidian plugin for media database management and search
 
 ### 🛠️ Tools I Use
 - **Python** for AI and trading algorithms
-- **TypeScript/JavaScript** for web development
-- **Shell scripting** for automation
+- **TypeScript/JavaScript** for web development (React, Vite, Node.js)
+- **Shell scripting** for automation and development workflows
+- **Databases**: PostgreSQL, Supabase, Prisma ORM
+- **Package Managers**: npm, pnpm, bun
 
 ### 📫 How to Reach Me
 - **Instagram**: [@cuongphm_](https://www.instagram.com/cuongphm_/)

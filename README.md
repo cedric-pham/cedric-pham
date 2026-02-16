@@ -1,55 +1,42 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm **Cuong Pham**, a developer from Vietnam 🇻🇳
+I'm **Cuong Pham** (aka **Nyros**), a developer from Vietnam 🇻🇳
 
-> "Debugging is twice as hard as writing code in the first place." – Brian Kernighan
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+AI+Tools;Creating+Indie+Games;Automating+Everything)](https://git.io/typing-svg)
 
 ---
 
 ### 🔭 Currently Working On
-- **Media Portal**: Obsidian plugin for unified media search across multiple APIs
-- AI-powered development tools and automation scripts
-- Fullstack web applications with modern technologies
 
-### 🚀 Featured Projects
-- [**media-portal**](https://github.com/nyrosveil/media-portal) - Obsidian plugin for media database management and search
+- **🤖 OpenClaw**: Building AI assistant that runs locally on your machine
+- **🎮 Indie Game Dev**: Creating games with AI-powered features
+- **⚡ Automation**: Scripts and workflows to boost productivity
 
-### 🛠️ Tools I Use
-- **Python** for AI and trading algorithms
-- **TypeScript/JavaScript** for web development (React, Vite, Node.js)
-- **Shell scripting** for automation and development workflows
-- **Databases**: PostgreSQL, Supabase, Prisma ORM
-- **Package Managers**: npm, pnpm, bun
+### 🛠️ Tech Stack
 
-### 📫 How to Reach Me
-- **Instagram**: [@cuongphm_](https://www.instagram.com/cuongphm_/)
-- **Threads**: [@cuongphm_](https://www.threads.net/@cuongphm_)
-- **GitHub**: [nyrosveil](https://github.com/nyrosveil)
-- **Bento**: [bento.me/cuongphm](https://bento.me/cuongphm)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 💬 Let's Chat About
-- Music recommendations
-- Coding tips for beginners
-- Vietnamese tech community
+---
 
-### 🌱 Currently Learning
-- Fullstack development (starting from zero with a relaxed vibe)
-- Exploring AI and web technologies at my own pace
+### 📊 GitHub Stats
 
-### ⚡ Fun Fact
-I'm an introvert who codes with good vibes and loves learning at my own pace – let's connect over music or code tips!
+![Nyros's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyrosveil&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
-<!--
-**nyrosveil/nyrosveil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyrosveil&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/nyrosveil)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nyrosveil)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/nyrosveil)
+
+---
+
+*Building the future, one commit at a time* 🚀

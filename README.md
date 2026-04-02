@@ -2,23 +2,26 @@
 
 I'm **Cuong Pham** (aka **Nyros**), a developer from Vietnam 🇻🇳
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Architecting+AI+Gateway;Building+Autonomous+Agents;Creating+Indie+Games;Automating+Everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Architecting+AI+Gateway;Building+Autonomous+Agents;Refining+macOS+Experiences;Automating+Everything)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
+**[LiveDeck](https://github.com/nyrosveil/LiveDeck)**
+> *The ultimate macOS Live Wallpaper Engine. Modern, modular, and optimized for performance with SwiftUI. Supports Video, Web, and DesktopHut.*
+
 **[Worker AI Gateway](https://github.com/nyrosveil/worker-ai-gateway)**
-> *The All-in-One AI Infrastructure on Cloudflare Workers. Bridge any tool to Cloudflare's 100K free daily AI requests with OpenAI compatibility.*
+> *The All-in-One AI Infrastructure on Cloudflare Workers. Bridge any tool to Cloudflare's 100K free daily AI requests.*
 
 ---
 
 ### 🔭 What I'm Up To
+- **🍎 LiveDeck**: Developing a high-performance wallpaper engine for macOS
 - **🤖 OpenClaw**: Building AI assistant that runs locally on your machine
-- **🎮 Indie Game Dev**: Creating games with AI-powered features
-- **⚡ AI Infrastructure**: Lightweight, high-performance gateways for Edge AI
+- **⚡ AI Infrastructure**: Lightweight gateways for Edge AI (Cloudflare Workers)
 
 ### 🛠️ Tech Stack
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)   ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)   ![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)   ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)   ![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 

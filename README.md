@@ -7,10 +7,10 @@ I'm **Cuong Pham** (aka **Nyros**), a developer from Vietnam 🇻🇳
 ---
 
 ### 🚀 Featured Projects
-**[LiveDeck](https://github.com/nyrosveil/LiveDeck)**
+**[LiveDeck](https://github.com/cedric-pham/LiveDeck)**
 > *The ultimate macOS Live Wallpaper Engine. Modern, modular, and optimized for performance with SwiftUI. Supports Video, Web, and DesktopHut.*
 
-**[Worker AI Gateway](https://github.com/nyrosveil/worker-ai-gateway)**
+**[Worker AI Gateway](https://github.com/cedric-pham/worker-ai-gateway)**
 > *The All-in-One AI Infrastructure on Cloudflare Workers. Bridge any tool to Cloudflare's 100K free daily AI requests.*
 
 ---
@@ -28,20 +28,20 @@ I'm **Cuong Pham** (aka **Nyros**), a developer from Vietnam 🇻🇳
 ### 📊 Contribution Graph & Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyrosveil&theme=react-dark&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cedric-pham&theme=react-dark&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nyrosveil&theme=radical" width="400px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nyrosveil&theme=radical" width="400px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cedric-pham&theme=radical" width="400px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cedric-pham&theme=radical" width="400px" />
 </div>
 
 ---
 
 ### 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/nyrosveil) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nyrosveil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/cedric-pham) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/nyrosveil)
 
 ---
 
